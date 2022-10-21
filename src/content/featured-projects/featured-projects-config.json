@@ -1,0 +1,63 @@
+[
+    {
+        "id": "featured-project-trackcta",
+        "title": "PhotoSnap",
+        "year": "Photo Sharing",
+        "location": "Stories",
+        "demo": "https://photosnap-website-three.vercel.app/",
+        "github": "https://github.com/sanjayk0508/Photosnap",
+        "tags": [
+            "React",
+            "TypeScript",
+            "NextJS",
+            "Web Sockets",
+            "CSS custom properties",
+            "CSS Flexbox & Grid",
+            "Styled Components",
+            "Mobile-first workflow"
+        ],
+        "description": "View the optimal layout for each page depending on their device's screen size. See hover states for all interactive elements throughout the site",
+        "image": "/assets/featured-projects/Photosnap.png",
+        "jpg": "/assets/featured-projects/Photosnap.png"
+    },
+    {
+        "id": "featured-project-asctb-reporter",
+        "title": "Coinbase",
+        "year": "Crypto",
+        "location": "Exchange",
+        "demo": "https://coinbase-webb.vercel.app/",
+        "github": "https://github.com/sanjayk0508/Coinbase-web",
+        "tags": ["React", "Javascript", "Styled Components", "Open Source"],
+        "description": "This is a Coinbase clone which has a responsive UI and primarily created with react & styles components",
+        "readMore": "https://www.figma.com/file/xjMiYaIhebATFJv44ZkYle/Coinbase?node-id=0%3A1",
+        "image": "/assets/featured-projects/coinbase.png",
+        "jpg": "/assets/featured-projects/coinbase.png"
+    },
+    {
+        "id": "featured-project-scrapbook",
+        "title": "Crappo",
+        "year": "Decentralised Finance",
+        "location": "Crypto",
+
+        "tags": ["SolidJS", "TailwindCSS", "Vite", "Static Assets management"],
+        "demo": "https://cryptocurrency-website.vercel.app/",
+        "github": "https://github.com/sanjayk0508/Crypto-web",
+        "description": "A responsive website that i used by learning about TailwindCSS and Static Assets management with vite.",
+        "readMore": "https://www.figma.com/community/file/1021358923494137559",
+        "image": "/assets/featured-projects/Thumbnail.png",
+        "jpg": "/assets/featured-projects/Thumbnail.png"
+    },
+    {
+        "id": "featured-project-measure-ux",
+        "location": "Exchange",
+        "title": "DeFi",
+        "year": "Crypto platform",
+        "demo": "https://crypto-platform-48cdb.web.app/",
+        "github": "https://github.com/sanjayk0508/Crypto-Platform",
+        "tags": ["UX Research", "User Journey", "API", "React", "Javascript", "CSS", "Figma"],
+        "description": "This was a lot of fun to build! I build this with React with Crypto API from scratch. Using the Coin Gecko API to access real time crypto informtion & data to display it on website.",
+        "readMore": "https://www.figma.com/file/G0fP1qunwd3PqmSuu28H9I/DeFi",
+        "image": "/assets/featured-projects/DeFi.png",
+        "jpg": "/assets/featured-projects/DeFi.png"
+    }
+]

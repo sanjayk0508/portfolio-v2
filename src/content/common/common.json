@@ -1,0 +1,30 @@
+{
+    "name": "Sanjay Kumar",
+    "logoType": {
+        "mobile": "SK",
+        "desktop": "Sanjay Kumar"
+    },
+    "mainPicture": "/assets/landing/sanjay.png",
+    "mainPictureJPG": "/assets/landing/sanjay.png",
+    "pronunciation": "/san-jay/",
+    "audioFile": "/assets/sanjay-name.ogg",
+    "cssVarPrefix": "sk",
+    "email": "sanjaykumarkathi5@gmail.com",
+    "linkedin": "https://in.linkedin.com/in/sanjay-kumar-86a88421a",
+    "github": "https://github.com/sanjayk0508",
+    "resume": "https://drive.google.com/file/d/1g0XSU11QVUf7d6YmSmXP7zNZIdqi26_L/view?usp=sharing",
+    "socials": [
+        {
+            "type": "linkedin",
+            "link": "https://in.linkedin.com/in/sanjay-kumar-86a88421a"
+        },
+        {
+            "type": "github",
+            "link": "https://github.com/sanjayk0508"
+        },
+        {
+            "type": "mail",
+            "link": "mailto:sanjaykumarkathi5@gmail.com"
+        }
+    ]
+}

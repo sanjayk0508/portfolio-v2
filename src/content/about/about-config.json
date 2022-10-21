@@ -1,0 +1,95 @@
+{
+    "educations": [
+        {
+            "id": "edu-2",
+            "school": "Mumbai University",
+            "degree": "Bachelors in Computer Science",
+            "duration": "Aug 2022 - Jul 2025",
+            "content": [
+                "Courses: Data Structures, OOP, Algorithms, Software Engineering, Computer Networks, Artificial Intelligence, UI/UX"
+            ]
+        },
+        {
+            "id": "edu-1",
+            "school": "Sies College",
+            "degree": "High school",
+            "duration": "Aug 2020 - May 2022",
+            "content": ["GPA: 3/4", "Courses: Finance,Technology "]
+        }
+    ],
+    "experiences": [
+        {
+            "id": "exp-1",
+            "company": "NDOT Technologies",
+            "position": "Front-end developer",
+            "duration": "Apr 2022 - Sep 2022",
+            "description": [
+                "Developed 8+ functioning web applications using HTML, CSS, React, Redux, NextJS, and Javascript from scratch. ",
+                "Took responsibility of more than 15 projects - Including the existing projects & UI/UX designs.",
+                "Frequent communication with clients, understanding their needs and preferences, and accordingly building projects on that basis was my major part of the work."
+            ]
+        },
+        {
+            "id": "exp-1",
+            "company": "Dusminute",
+            "position": "UI/UX Designer",
+            "duration": "Dec 2020 - Mar 2021",
+            "description": [
+                "Designed the User Interface of the admin dashboard: First analyzed the premier version (product) of the app, accordingly built the UI/UX for the employees in Dusminute for analyzing the data of premier member(customer).",
+                "Designed and delivered graphic posters and banners for Dusminute's customers (retail shops).",
+                "Built personalized 3D Illustration for Dusminute.",
+                "Mainly Worked and attended meeting with Developer, Co-Founder & CTO of Dusminute."
+            ]
+        },
+        {
+            "id": "exp-3",
+            "company": "Freelance Graphic & UI/UX Designer",
+            "position": "Self-employed",
+            "duration": "Aug 2020 - Mar 2021",
+            "description": [
+                "Worked with 40+ clients (globally) and delivered high-quality designs. ",
+                "Been a part of an Early stage Startup: Worked on the enhancement of the web application.",
+                "Got 25+ offers to join as an intern."
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "title": "Programming",
+            "tools": ["TypeScript", "JavaScript", "Python", "C/C++", "Java", "NoSQL", "SQL", "React Native"]
+        },
+        {
+            "title": "Web",
+            "tools": ["React", "NodeJS", "Flask", "Redux", "HTML/CSS", "NextJS"]
+        },
+        {
+            "title": "Databases",
+            "tools": ["MongoDB", "Redis", "MySQL", "Firebase"]
+        },
+
+        {
+            "title": "OS & Tools",
+            "tools": ["Git", "Agile (Scrum)", "Jenkins", "Heroku", "Docker", "Kubernetes", "Jest"]
+        },
+        {
+            "title": "Design & Research",
+            "tools": [
+                "Figma",
+                "Surveys",
+                "Interviews",
+                "User Research",
+                "Design Strategy",
+                "Experience Mapping",
+                "Adobe XD",
+                "Illustrator"
+            ]
+        }
+    ],
+    "blog": [
+        {
+            "id": "blog-1",
+            "title": "Contribute to Open Source Projects with ease",
+            "link": "https://blog.commclassroom.org/contribute-to-open-source-with-ease"
+        }
+    ]
+}

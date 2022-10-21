@@ -1,0 +1,46 @@
+[
+    {
+        "id": "other-project-post",
+        "title": "Open Fashion - APP DESIGN",
+        "year": "Fashion",
+        "github": "https://github.com/hrishikeshpaul/post",
+        "demo": "https://hrishikeshpaul.github.io/post/",
+        "tags": ["UI/UX", "Design", "Fashion", "Ecom", "App Design"],
+        "description": "UI Kit with elegant and modern style will help you to quickly create your own design. Come with 30 essential screens",
+        "image": "/assets/other-projects/open.png",
+        "readMore": "https://www.figma.com/community/file/1163438497326208393",
+        "jpg": "/assets/other-projects/open.png"
+    },
+    {
+        "id": "other-project-noq",
+        "title": "Zebra",
+        "year": "Aug 2019 - Dec 2019",
+        "github": "https://github.com/hrishikeshpaul/noq",
+        "demo": "http://noq-client.herokuapp.com/login",
+        "tags": ["UI/UX", "Figma", "Marketing Agency", "Landing Page", "Neomorphism"],
+        "description": "Digital Marketing Agency with modern UI",
+        "readMore": "https://www.figma.com/community/file/1163438608013539722",
+        "image": "/assets/other-projects/zebra.png",
+        "jpg": "/assets/other-projects/zebra.png"
+    },
+    {
+        "id": "other-project-bank-compare",
+        "title": "NFT Web App",
+        "year": "NFT",
+        "tags": ["UX Design", "NFT", "Dashboard", "Mockups"],
+        "description": "This project is UI of NFT Dashboard ",
+        "readMore": "https://www.figma.com/community/file/1158777304796221128",
+        "image": "/assets/other-projects/nft.png",
+        "jpg": "/assets/other-projects/nft.png"
+    },
+    {
+        "id": "other-project-bunder",
+        "title": "Shoea",
+        "year": "Shoes • App Design",
+        "tags": ["UI/UX", "User Interviews", "Ecom", "Shoes", "App Design", "Prototype"],
+        "description": "This project is an App Design of Ecom Shoes. Created more than 50+ screen in a month.",
+        "readMore": "https://www.figma.com/community/file/1158778832374545098",
+        "image": "/assets/other-projects/shoea.png",
+        "jpg": "/assets/other-projects/shoea.png"
+    }
+]
