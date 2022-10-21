@@ -4,7 +4,7 @@
 ![sanjay](https://user-images.githubusercontent.com/102804548/197192712-420d0f28-49ee-4fd7-b238-4748a9ffce04.png)
 
 
-💻  Live [demo]()
+💻  Live [demo](https://sanjayz-blush.vercel.app/)
 
 ---
 
