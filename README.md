@@ -48,7 +48,7 @@ $ yarn build
 
 ## Usage
 
-All the information can be edited in the JSONs and Markdowns in the [content folder](https://github.com/hrishikeshpaul/portfolio-template-v2/tree/main/src/content). Each section of the portfolio has its own folder. The `common.json` file contains details that are used throughout the website. 
+All the information can be edited in the JSONs and Markdowns in the [content folder]([https://github.com/hrishikeshpaul/portfolio-template-v2/tree/main/src/content](https://github.com/sanjayk0508/portfolio_v2/tree/main/src/content)). Each section of the portfolio has its own folder. The `common.json` file contains details that are used throughout the website. 
 
 All the images are in `public/assets`.
 
