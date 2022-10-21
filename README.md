@@ -4,7 +4,7 @@
 ![sanjay](https://user-images.githubusercontent.com/102804548/197192712-420d0f28-49ee-4fd7-b238-4748a9ffce04.png)
 
 
-💻  Live [demo](https://hpaul-v2.web.app/)
+💻  Live [demo](https://sanjayz.vercel.app/)
 
 ---
 
@@ -14,7 +14,7 @@
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Connect](#connect)
-- [License](#license)
+
 
 ---
 
@@ -60,12 +60,7 @@ All the images are in `public/assets`.
 
 ## Connect
 
-- Website at <a href="https://hrishikeshpaul.github.io/" target="_blank">`https://hrishikeshpaul.github.io/`</a>
-- LinkedIn at <a href="https://www.linkedin.com/in/hrishikeshpaul/" target="_blank">`hrishikeshpaul`</a>
+- Website at <a href="https://sanjayz.vercel.app/" target="_blank">`https://sanjayz.vercel.app/`</a>
+- LinkedIn at <a href="[https://www.linkedin.com/in/hrishikeshpaul/](https://in.linkedin.com/in/sanjay-kumar-86a88421a)" target="_blank">`hrishikeshpaul`</a>
 
-## License
 
-[![license](https://img.shields.io/github/license/hrishikeshpaul/portfolio-template?style=flat&logo=appveyor)](https://github.com/hrishikeshpaul/portfolio-template-v2/blob/master/LICENSE) 
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2022 © <a href="https://hrishikeshpaul.github.io/" target="_blank">Hrishikesh Paul</a>
