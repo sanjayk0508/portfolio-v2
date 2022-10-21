@@ -61,6 +61,6 @@ All the images are in `public/assets`.
 ## Connect
 
 - Website at <a href="https://sanjayz.vercel.app/" target="_blank">`https://sanjayz.vercel.app/`</a>
-- LinkedIn at <a href="[https://www.linkedin.com/in/hrishikeshpaul/](https://in.linkedin.com/in/sanjay-kumar-86a88421a)" target="_blank">`Sanjay_0508`</a>
+- LinkedIn at <a href="https://in.linkedin.com/in/sanjay-kumar-86a88421a" target="_blank">`Sanjay_0508`</a>
 
 
