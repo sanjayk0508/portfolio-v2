@@ -1,7 +1,8 @@
 # Portfolio Template 🖐
 > Version 2 of a simple, minimal and responsive personal website template, built using React, TypeScript, HTML and SCSS.
 
-![Portfolio Template Banner](public/assets/readme/banner.png)
+![sanjay](https://user-images.githubusercontent.com/102804548/197192712-420d0f28-49ee-4fd7-b238-4748a9ffce04.png)
+
 
 💻  Live [demo](https://hpaul-v2.web.app/)
 
